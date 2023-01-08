@@ -30,7 +30,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: https://github.com/XshubhamG/News-Homepage
-- Live Site URL:
+- Live Site URL: https://xshubhamg.github.io/News-Homepage/
 
 
 ## My process
