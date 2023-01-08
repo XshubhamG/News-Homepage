@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: 
+- Solution URL: https://github.com/XshubhamG/News-Homepage
 - Live Site URL:
 
 
